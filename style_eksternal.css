@@ -1,0 +1,55 @@
+nav {
+    background: #d91414;
+    color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav .active,
+nav a:hover {
+backgroun: #0b6b3a;
+}
+
+/* ID Selector */
+#intro {
+    Background: #0d00a5;
+    border: 1px solid #099249;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align: center;
+    border: 0;
+    color: #fff;
+}
+
+/* Class Selector */
+.button {
+padding: 15px 20px;
+background: #bebcbd;
+color: #fff;
+display: inline-block;
+margin: 10px;
+text-decoration: none;
+}
+
+.btn-primary {
+background: #d91414;
+}
+
+.merah {color:red;}
+.hijau {color:green;}
+.biru {color:blue;}
+
+#paragraf-1 {
+    color: red;
+}
+
+.text-paragraf {
+    color: blue;
+}
